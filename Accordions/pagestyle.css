@@ -1,0 +1,89 @@
+.first{
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+}
+img{
+	height: 120px;
+	width:130px;
+	position: relative;
+	top: 15px;
+	
+}
+li{
+	margin-left: 150px;
+	margin-top: 10px;
+	position: relative;
+	top: -100px;
+	
+}
+.accfill{
+	height: 200px;
+	background-image: url(back2.jpg);
+	background-position: cover;
+
+}
+
+.jumbotron{
+	background-image: url(team.jpg);
+	height: 300px;
+	z-index: -1;
+	margin-top: 0px;
+	font-size: 20px;
+	border-image-width: 100px;
+	background-repeat: no-repeat;
+	background-size: cover
+
+}
+h1{
+	margin-top: 200px;
+	font-color: #333333;
+	text-align: center;
+	z-index: 1;
+}
+
+h4{
+	
+}
+
+#bod{
+	background-image: url(back.jpg);
+	background-size: cover;
+
+}
+
+ul{
+	
+}
+
+#desc-head{
+	color: white;
+}
+
+.container{
+	color: white;
+	margin-bottom: 50px;
+
+}
+
+p{
+	font-size: 20px;
+}
+
+#accordion .ui-accordion-header {  
+	background-color: red;
+}
+
+.ui-accordion-header { background-color: blue; }
+
+#accordion .ui-accordion-content > * {  
+
+}
+
+.newClass{
+	color:red;
+}
+
+#blog{
+	border-width: 10px;
+}
