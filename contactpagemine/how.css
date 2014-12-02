@@ -1,0 +1,40 @@
+.jumbotron{
+	text-align: center;
+	background-image: url(team.jpg);
+}
+#subbutton{
+	color:green;
+	margin-bottom: 50px;
+}
+.aligner{
+	right:500px;
+	position: relative;
+	margin-left: 500px;
+}
+.container{
+	position: relative;
+	margin-left: -100px;
+	width:200px;
+	z-index: -1;
+
+}
+.cont{
+	width:400px;
+	color:black;
+}
+
+#gendesc{
+	width:900px;
+}
+
+.address{
+	position: relative;
+	margin-left: 1200px;
+	margin-top: -650px;
+	width: 130px;
+}
+.contact{
+	position: relative;
+	margin-left: 1200px;
+	margin-top: 500px;
+}
